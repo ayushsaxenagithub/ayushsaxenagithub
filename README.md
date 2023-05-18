@@ -41,4 +41,4 @@ As part of the Inter Hall Competition, I unleashed my creative prowess and devel
 
 ## Let's Connect
 
-Thank you for taking the time to explore my profile! Let's connect and embark on a journey of innovation and collaboration. Reach out to me on [LinkedIn](https://www.linkedin.com/in/ayush-saxena-8b8213195/) | [Gmail](ayush.asax.saxena@gmail.com) and let's create something extraordinary together! 🌟
+Thank you for taking the time to explore my profile! Let's connect and embark on a journey of innovation and collaboration. Reach out to me on [LinkedIn](https://www.linkedin.com/in/ayush-saxena-8b8213195/) | [Gmail](mailto:ayush.asax.saxena@gmail.com) and let's create something extraordinary together! 🌟
