@@ -26,9 +26,6 @@
       <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
     <a href="#">
-      <img align="center" alt="Logo do TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    </a>
-    <a href="#">
       <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     </a>
     <a href="#">
@@ -46,16 +43,7 @@
     <a href="#">
       <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     </a>
-    <a href="#">
-      <img align="center" alt="Logo do Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    </a>
     
-    <a href="#">
-      <img align="center" alt="Logo do PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-    </a>
   </p>
 </div>
 
@@ -73,7 +61,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 
-![Snake animation](https://github.com/ayushsaxenagithub/ayushsaxenagithub/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/ayushsaxenagithub/ayushsaxenagithub/blob/output/github-contribution-grid-snake.svg) -->
 
 # Ayush Saxena
 
