@@ -25,6 +25,9 @@ I am Ayush Saxena, currently pursuing my M.TECH Dual Degree at the prestigious I
 
 At TransOrg, I had the opportunity to dive into the world of analytics and software development. As a Software Developer, I contributed to the back-end development of TransOrg Analytics and PickleAI websites. Leveraging the power of Django, Python, Ajax, and JavaScript, I ensured smooth functioning and real-time modifications. To enhance security, I implemented OTP verification on all forms, creating a robust and secure user experience.
 
+### Learning Management System under Professor Kaushal Kumar Bhagat - IIT Kharagpur
+As part of my academic journey at IIT Kharagpur, I worked on a project under the guidance of Professor Kaushal Kumar Bhagat. The project involved the development of a web application using Django, featuring models such as Profile, Organization, Teacher, Student, Course, Enrollment, Module, Video, Comment, and more. It aimed to provide a comprehensive platform for educational purposes, including course management, video streaming, enrollment, and progress tracking.
+
 ### Ecommerce Website - Self Project
 
 In my self-initiated project, I embarked on a journey to create a captivating web-based e-commerce application. Armed with Python, Django Rest API, ReactJS, HTML, CSS, and JavaScript, I brought to life a seamless shopping experience. From integrating a simulated shopping cart system to providing flexible payment options and a comprehensive review system, every aspect was meticulously crafted to delight users.
