@@ -82,13 +82,42 @@ Welcome to my world of creativity and innovation! 🚀 I'm Ayush Saxena, a tech 
 
 ## About Me
 
-I am Ayush Saxena, currently pursuing my M.TECH Dual Degree at the prestigious IIT Kharagpur. Hailing from the vibrant city of Moradabad, U.P, India, I am on a mission to bridge the gap between technology and businesses through my expertise.
+I am Ayush Saxena, currently pursuing my M.TECH Dual Degree at the prestigious IIT Kharagpur, with an expected graduation in May 2024. I am on a mission to bridge the gap between technology and businesses through my expertise.
 
+<!-- Experience Section -->
 ## Experience
 
-### TransOrg - Analytics | Software Developer
+### TransOrg - Analytics | Software Developer Intern [Jun'22 - Jul'23]
 
-At TransOrg, I had the opportunity to dive into the world of analytics and software development. As a Software Developer, I contributed to the back-end development of TransOrg Analytics and PickleAI websites. Leveraging the power of Django, Python, Ajax, and JavaScript, I ensured smooth functioning and real-time modifications. To enhance security, I implemented OTP verification on all forms, creating a robust and secure user experience.
+At TransOrg, I had the opportunity to dive into the world of analytics and software development. As a Software Developer Intern, I contributed significantly to the back-end development of TransOrg Analytics and PickleAI websites.
+
+- **Responsibilities and Achievements:**
+  - Engineered and maintained TransOrg Analytics and PicklAI back-ends with Python and a proprietary in-house library for peak performance.
+  - Sustained the back-end on Amazon Web Services, ensuring it was updated and deployed for real-time modifications.
+  - Introduced monitor users, sessions, IP addresses, and viewers per URL in the admin panel, reducing costs on external user tracking services.
+  - Improved admin panel security with middleware and RBAC to limit access to sensitive site information exclusively for authorized personnel.
+  - Designed a secure panel to optimize content control and user functions, efficiently presenting data and saving employee’s time.
+
+### Web Prism IT Solution | Software Developer Intern [May'21 - Jul'21]
+
+As a Software Developer Intern at Web Prism IT Solution, I contributed significantly to both front-end and back-end development.
+
+- **Responsibilities and Achievements:**
+  - Contributed significantly to React (front-end) and Python, Django (back-end) for seamless full-stack projects within a collaborative team.
+  - Designed efficient and secure back-end systems with Django, RESTful APIs, authentication, and an optimized database system.
+  - Participated in code reviews, actively contributing and embracing constructive feedback to the cultivation of continuous improvement.
+
+<!-- Publications Section -->
+## Publications
+
+### Book: Mathematics for Competitive Programming and Data Structures: Mastering the Essentials
+- **ISBN:** 9798397120371
+- **Description:**
+  - Authored a comprehensive guide in C++, revealing essential mathematical techniques for competitive programming and Data Structures.
+  - Simplified intricate and diverse mathematical areas, encompassing Number Theory, Combinatorics, Graph Theory, Probability, Geometry.
+  - Enlightened aspiring coders with relatable examples, empowering them for confident and effective competitive programming pursuits.
+
+## Projects
 
 ### Learning Management System under Professor Kaushal Kumar Bhagat - IIT Kharagpur
 As part of my academic journey at IIT Kharagpur, I worked on a project under the guidance of Professor Kaushal Kumar Bhagat. The project involved the development of a web application using Django, featuring models such as Profile, Organization, Teacher, Student, Course, Enrollment, Module, Video, Comment, and more. It aimed to provide a comprehensive platform for educational purposes, including course management, video streaming, enrollment, and progress tracking.
