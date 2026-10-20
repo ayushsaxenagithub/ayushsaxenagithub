@@ -57,7 +57,7 @@ I work primarily with Python, Django, PostgreSQL, and React. I’m particularly 
   <tr>
     <td>
       <h3>🏦 PivotMoney</h3>
-      <p><sub><b>Lead Developer</b> · Mar 2026 – Present · Mumbai</sub></p>
+      <p><sub><b>Lead Developer</b> · 7 months, current role · Mumbai</sub></p>
       <p>PivotMoney lets Indian and overseas investors buy mutual funds, trade US stocks and see all of their wealth in one place. The hardest problems sat where our app meets the financial world outside it: payments could take a full day to confirm, re-syncing a statement could quietly duplicate an investor’s history, and some orders showed the wrong status.</p>
       <p>I rebuilt our integration with India’s largest mutual-fund exchange so investors see their payments confirmed in minutes rather than the next day, and designed an append-only ledger with two-phase settlement so every unit can be traced and a re-sync can never double-count. I also led the launches of US stock trading and open-banking wealth tracking, and set up our production platform on Google Cloud with kill switches, so a misbehaving feature can be switched off without a redeploy. Today I lead the engineering team and own the core of the product, from the backend to the web app.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
@@ -66,7 +66,7 @@ I work primarily with Python, Django, PostgreSQL, and React. I’m particularly 
   <tr>
     <td>
       <h3>🤖 Turing</h3>
-      <p><sub><b>Software Developer</b> · Jun 2024 – Nov 2025 · Bangalore</sub></p>
+      <p><sub><b>Software Developer</b> · 1.5 years · Bangalore</sub></p>
       <p>At Turing I worked on the systems behind large language model training. Training runs are long and spread across many machines, so an API that slows down or times out can stall an entire run. I rebuilt and tuned the Python and FastAPI services on Kubernetes that orchestrate these jobs so they stayed responsive under heavy load, built a real-time React dashboard that let the team watch and check the code models generated during training, and automated the deployment pipeline for the ML infrastructure on AWS so releases no longer depended on manual steps.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/>
     </td>
@@ -74,7 +74,7 @@ I work primarily with Python, Django, PostgreSQL, and React. I’m particularly 
   <tr>
     <td>
       <h3>📊 TransOrg Analytics</h3>
-      <p><sub><b>Software Developer Intern</b> · Jun 2022 – Jul 2023 · Gurugram</sub></p>
+      <p><sub><b>Software Developer Intern</b> · 1 year · Gurugram</sub></p>
       <p>During a year-long internship I built and ran the Django services behind TransOrg Analytics and Pickl.AI. Responses were slow, deployments were manual and user tracking relied on a paid third-party tool. I moved the APIs onto Django REST Framework, automated the AWS infrastructure with Boto3 so releases became routine, and built our own user analytics into the admin panel so the team no longer needed the outside service.</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/>
     </td>
